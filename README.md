@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Get started here!
+Get started here! https://pantry-tracker-chi-beige.vercel.app/
 
 ## Learn More
 
