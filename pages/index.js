@@ -1,7 +1,5 @@
 // page.js
 
-"use client";
-
 import { useState, useEffect } from "react";
 import { firestore, auth } from "@/firebase";
 import {
