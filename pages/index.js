@@ -178,8 +178,8 @@ export default function Home() {
       Add New Item
     </Button>
     <Box
-      width="800px"
-      height="100px"
+      width="1000px"
+      height="200px"
       bgcolor={"#ADD8E6"}
       display={"flex"}
       justifyContent={"center"}
