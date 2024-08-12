@@ -187,7 +187,7 @@ export default function Home() {
       sx={{ borderRadius: "10px" }}
     >
       <Typography variant={"h2"} color={"#333"} textAlign={"center"}>
-        Pantry Tracker
+      PITAFL (Pantry, Is There Any Food Left?)
       </Typography>
     </Box>
     <SearchBar

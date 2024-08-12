@@ -1,20 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PITAFL (Pantry, Is There Any Food Left?)
+
+PITAFL is a comprehensive pantry management application designed to help you keep track of your pantry inventory efficiently. Built using Next.js and Firebase, PITAFL offers a seamless experience for managing your food supplies, ensuring you never run out of essential items.
+
+## Features
+
+- **Inventory Management**: Easily add, update, and remove items from your pantry inventory.
+- **Barcode Scanning**: Quickly input items using your device's camera to scan barcodes.
+- **Expiration Alerts**: Receive notifications when items are nearing their expiration date.
+- **Shopping Lists**: Create and manage shopping lists with product recommendations based on your inventory.
+- **Categorization**: Organize products into categories for better management.
+
+## Technology Stack
+
+- **Frontend**: Developed using Next.js for a fast and responsive user interface.
+- **Backend**: Powered by Firebase, providing real-time database updates and secure authentication.
 
 ## Getting Started
 
-Get started here! https://pantry-tracker-chi-beige.vercel.app/
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://pantry-tracker-chi-beige.vercel.app/ 
